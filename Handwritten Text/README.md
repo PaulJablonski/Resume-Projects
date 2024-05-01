@@ -7,6 +7,9 @@ Following convolution and training, various functions are implemented in order t
 model. Finally, a user interface was created using a front end library PyQT, which enabled the user to input their own drawn text. The user input was then tested through the model and classified 
 with an accuracy higher than 85%. 
 
+**Project Showcase:**
+
+
 **Included Files:**
 
 1. App.py - Contains the code for the creation of the front end app, this includes creating a UI, functions for processing the UI's input, and labelling the resulting outputs of the trained model.
