@@ -8,6 +8,7 @@ model. Finally, a user interface was created using a front end library PyQT, whi
 with an accuracy higher than 85%. 
 
 **Project Showcase:**
+![Alt text](https://imgur.com/TKLcrb3)
 
 
 **Included Files:**
