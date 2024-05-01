@@ -12,11 +12,15 @@ with an accuracy higher than 85%.
   <img src="https://github.com/PaulJablonski/Resume-Projects/assets/148725115/f74d8f76-8084-464a-b1f7-944f7c988b39" alt="HandwrittenExample3">
   
   Figure 1. Console loads the UI of the program.
-  
+</p>
+
+<p align="center">
   <img src="https://github.com/PaulJablonski/Resume-Projects/assets/148725115/d5aba49c-e7a1-4cc4-a2e5-1af51f7db88a" alt="HandwrittenExample2">
   
   Figure 2. Empty UI interface before user draws a character.
+</p>
 
+<p align="center">
   <img src="https://github.com/PaulJablonski/Resume-Projects/assets/148725115/d67baf53-f7ce-4867-a53d-477ab0b1d3de" alt="HandwrittenExample1">
   
   Figure 3. Example execution after user draws a character.
