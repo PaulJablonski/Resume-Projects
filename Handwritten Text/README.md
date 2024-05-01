@@ -10,6 +10,9 @@ model. Finally, a user interface was created using a front end library PyQT, whi
 with an accuracy higher than 85%. 
 
 **Project Showcase:**
+
+The following three images present example usage of the program, alongside all front-end components:
+
 <p align="center">
   <img src="https://github.com/PaulJablonski/Resume-Projects/assets/148725115/f74d8f76-8084-464a-b1f7-944f7c988b39" alt="HandwrittenExample3">
 </p>
