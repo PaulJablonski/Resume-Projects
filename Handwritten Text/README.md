@@ -9,6 +9,8 @@ Following convolution and training, various functions are implemented in order t
 model. Finally, a user interface was created using a front end library PyQT, which enabled the user to input their own drawn text. The user input was then tested through the model and classified 
 with an accuracy higher than 85%. 
 
+**Example Usage:**
+
 <p align="center">
   <img src="https://github.com/PaulJablonski/Resume-Projects/assets/148725115/f74d8f76-8084-464a-b1f7-944f7c988b39" alt="HandwrittenExample3">
 </p>
