@@ -29,3 +29,27 @@
 <p align="center">  
   Figure 2. Music page of Illini Harmonics.
 </p>
+
+<p align="center">
+  <img src="https://github.com/PaulJablonski/Resume-Projects/assets/148725115/750ef713-76ef-49e7-8a21-152e681de2ba">
+</p>
+
+<p align="center">  
+  Figure 3. Artist page of Illini Harmonics.
+</p>
+
+<p align="center">
+  <img src="https://github.com/PaulJablonski/Resume-Projects/assets/148725115/7e146dc6-3b1a-4131-a8e0-9fd819f0b475">
+</p>
+
+<p align="center">  
+  Figure 4. Posts page of Illini Harmonics.
+</p>
+
+<p align="center">
+  <img src="https://github.com/PaulJablonski/Resume-Projects/assets/148725115/0fc6f4eb-9c51-41c9-ba86-da9e2a31eff5">
+</p>
+
+<p align="center">  
+  Figure 5. Friends page of Illini Harmonics.
+</p>
