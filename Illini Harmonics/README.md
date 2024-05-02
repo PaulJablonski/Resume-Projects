@@ -70,7 +70,7 @@
 **Database Usage:**
 
 <p align="center">
-  <img src="https://github.com/PaulJablonski/Resume-Projects/assets/148725115/9a6aa560-3ad7-492b-b85d-4f5e1fcb5d09">
+  <img src="https://github.com/PaulJablonski/Resume-Projects/assets/148725115/678100b5-d46c-40a7-a006-3965a676e0b5">
 </p>
 
 <p align="center">  
@@ -94,7 +94,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/PaulJablonski/Resume-Projects/assets/148725115/678100b5-d46c-40a7-a006-3965a676e0b5">
+  <img src="https://github.com/PaulJablonski/Resume-Projects/assets/148725115/9a6aa560-3ad7-492b-b85d-4f5e1fcb5d09">
 </p>
 
 <p align="center">  
