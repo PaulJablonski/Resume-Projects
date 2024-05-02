@@ -7,7 +7,11 @@
 
 
 **Instructions for Running:**
+1. Download the distributed zipped file from the drive link as follows:
 
+https://drive.google.com/file/d/1NIb6_QmnId1-nFuDS1SpgtDuOxblxvsX/view?usp=sharing
+
+2. 
 
 **Webpage Example Usage:**
 
