@@ -92,11 +92,3 @@
 <p align="center">  
   Figure 10. .
 </p>
-
-<p align="center">
-  <img src="https://github.com/PaulJablonski/Resume-Projects/assets/148725115/9a6aa560-3ad7-492b-b85d-4f5e1fcb5d09">
-</p>
-
-<p align="center">  
-  Figure 11. .
-</p>
