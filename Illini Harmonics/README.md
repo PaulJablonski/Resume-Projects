@@ -27,5 +27,5 @@
 </p>
 
 <p align="center">  
-  Figure 2. Artist page of Illini Harmonics.
+  Figure 2. Music page of Illini Harmonics.
 </p>
