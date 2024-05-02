@@ -82,7 +82,7 @@
 </p>
 
 <p align="center">  
-  Figure 9. MySQL query displaying highest rating songs.
+  Figure 9. MySQL query displaying most popular songs on Illini Harmonics.
 </p>
 
 <p align="center">
@@ -90,5 +90,5 @@
 </p>
 
 <p align="center">  
-  Figure 10. MySQL query displaying most popular songs on Illini Harmonics.
+  Figure 10. MySQL query displaying highest rating songs.
 </p>
