@@ -9,7 +9,7 @@
 **Instructions for Running:**
 
 
-**Example Usage:**
+**Webpage Example Usage:**
 
 <p align="center">
   <img src="https://github.com/PaulJablonski/Resume-Projects/assets/148725115/c86f2006-6f60-48ae-b067-78a93dde382d">
@@ -67,7 +67,7 @@
   Figure 7. Signup page of Illini Harmonics.
 </p>
 
-**Database Usage:**
+**Database Example Usage:**
 
 <p align="center">
   <img src="https://github.com/PaulJablonski/Resume-Projects/assets/148725115/678100b5-d46c-40a7-a006-3965a676e0b5">
