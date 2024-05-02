@@ -76,3 +76,27 @@
 <p align="center">  
   Figure 8. .
 </p>
+
+<p align="center">
+  <img src="https://github.com/PaulJablonski/Resume-Projects/assets/148725115/9efd695c-7487-4573-af45-ff533d43e170">
+</p>
+
+<p align="center">  
+  Figure 9. .
+</p>
+
+<p align="center">
+  <img src="https://github.com/PaulJablonski/Resume-Projects/assets/148725115/032de7b8-d03c-47cb-af69-812642c66f9f">
+</p>
+
+<p align="center">  
+  Figure 10. .
+</p>
+
+<p align="center">
+  <img src="https://github.com/PaulJablonski/Resume-Projects/assets/148725115/678100b5-d46c-40a7-a006-3965a676e0b5">
+</p>
+
+<p align="center">  
+  Figure 11. .
+</p>
