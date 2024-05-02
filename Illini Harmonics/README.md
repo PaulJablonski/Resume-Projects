@@ -74,7 +74,7 @@
 </p>
 
 <p align="center">  
-  Figure 8. .
+  Figure 8. MySQL query presenting all data tables in database.
 </p>
 
 <p align="center">
@@ -82,7 +82,7 @@
 </p>
 
 <p align="center">  
-  Figure 9. .
+  Figure 9. MySQL query displaying highest rating songs.
 </p>
 
 <p align="center">
@@ -90,5 +90,5 @@
 </p>
 
 <p align="center">  
-  Figure 10. .
+  Figure 10. MySQL query displaying most popular songs on Illini Harmonics.
 </p>
