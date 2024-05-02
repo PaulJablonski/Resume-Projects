@@ -10,8 +10,8 @@
 1. Download the distributed zipped file from the drive link as follows:
 
    https://drive.google.com/file/d/1NIb6_QmnId1-nFuDS1SpgtDuOxblxvsX/view?usp=sharing
-
-2. 
+2. Unzip the file, and setup Node.js alongside React on your local device.
+3. Due to the GCP shell not being publicly accessible and limited in access, you may run the react app from the "Client" directory in the zipped folder. Redirect the Bash terminal to "Client" and utilize "npm run dev" in order to start the local website without data.
 
 **Webpage Example Usage:**
 
