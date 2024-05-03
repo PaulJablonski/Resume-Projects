@@ -30,7 +30,7 @@ Note: This does not include all of the data as presented in the example usage be
 </p>
 
 <p align="center">  
-  Figure 2. Music page of Illini Harmonics.
+  Figure 2. Music page.
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ Note: This does not include all of the data as presented in the example usage be
 </p>
 
 <p align="center">  
-  Figure 3. Artist page of Illini Harmonics.
+  Figure 3. Artist page.
 </p>
 
 <p align="center">
@@ -46,7 +46,7 @@ Note: This does not include all of the data as presented in the example usage be
 </p>
 
 <p align="center">  
-  Figure 4. Posts page of Illini Harmonics.
+  Figure 4. Posts page.
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@ Note: This does not include all of the data as presented in the example usage be
 </p>
 
 <p align="center">  
-  Figure 5. Friends page of Illini Harmonics.
+  Figure 5. Friends page.
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@ Note: This does not include all of the data as presented in the example usage be
 </p>
 
 <p align="center">  
-  Figure 6. Login page of Illini Harmonics.
+  Figure 6. Login page of.
 </p>
 
 <p align="center">
@@ -70,7 +70,7 @@ Note: This does not include all of the data as presented in the example usage be
 </p>
 
 <p align="center">  
-  Figure 7. Signup page of Illini Harmonics.
+  Figure 7. Signup page.
 </p>
 
 **Database Example Usage:**
