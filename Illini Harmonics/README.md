@@ -2,6 +2,9 @@
 
 **Description:**
 
+This project involved creating a GCP hosted website that allows users to share their listening history with others through a simple rating-based system. Data was handled through mySQL on a GCP database, whereas the frontend was developed through React and Node.js utilizing CSS, TS, and JS. User, song, and artist data was additionally gathered through the Spotify API and a Python script that populated the initial SQL database with usable information.
+
+Users are capable of registering accounts, logging in, and creating posts on the site. Posts contain information regarding a song, artist, and designated rating. Where the former two attributes contain pages of their own that present all stored artist and song data on the database. SQL queries, stored procedures, and triggers are utilized in the upkeep of data to ensure posts may be inserted, deleted, and edited. Furthermore, SQL stored procedures enable the site to ensure that a login or signup query is allowable with the usernames and passwords stored on the database.
 
 **Included Directories:**
 
@@ -11,7 +14,7 @@
 
    https://drive.google.com/file/d/1kRmTPqloMmKDpv7__bXW53tQu9zKoE_s/view?usp=sharing
 2. Unzip the file, and setup Node.js alongside React on your local device.
-3. Due to the GCP shell not being publicly accessible and limited in access, you may run the react app from the "Client" directory in the zipped folder. Redirect the Bash terminal to "Client" and utilize "npm run dev" in order to start the local website without data.
+3. Due to the GCP shell not being public and limited in access, you may run the react app from the "Client" directory in the zipped folder. Redirect the Bash terminal to "Client" and utilize "npm run dev" in order to start the local website without data.
 
 Note: This does not include all of the data as presented in the example usage below, thus it runs only as the front-end framework.
 
