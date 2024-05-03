@@ -2,12 +2,17 @@
 
 **Description:**
 
-This project involved creating a GCP hosted website that allows users to share their listening history with others through a simple rating-based system. Data was handled through mySQL on a GCP database, whereas the frontend was developed through React and Node.js utilizing CSS, TS, and JS. User, song, and artist data was additionally gathered through the Spotify API and a Python script that populated the initial SQL database with usable information.
+This project involved creating a GCP hosted website that allows users to share their listening history with others through a simple rating-based system. Data was handled through mySQL on a GCP database, whereas the frontend was developed through React and Node.js utilizing CSS and TSX. User, song, and artist data was additionally gathered through the Spotify API and a Python script that populated the initial SQL database with usable information.
 
 Users are capable of registering accounts, logging in, and creating posts on the site. Posts contain information regarding a song, artist, and designated rating. Where the former two attributes contain pages of their own that present all stored artist and song data on the database. SQL queries, stored procedures, and triggers are utilized in the upkeep of data to ensure posts may be inserted, deleted, and edited. Furthermore, SQL stored procedures enable the site to ensure that a login or signup query is allowable with the usernames and passwords stored on the database.
 
 **Included Directories:**
 
+1. backend - Contains index.js, which establishes the local connection to the GCP database. This populates the data into the frontend for pages such as Posts, Artists, Music, and Friends.
+2. client - Contains all frontend code in CSS and TSX, which is primarily stored in the src directory. Components are additionally defined, and the composition of each page is contained here as well.
+3. data - Contains Harmonics_Data_Population.py, which auto-generates CSV files utilizing the Spotify API. The CSV files are also contained in this directory, which were utilized to populate the mySQL tables with example data.
+4. sql-queries - All SQL queries, stored procedures, and triggers are stored here, which are used on the GCP mySQL database.
+5. sql-setup - The files in here are used to initialize and create the tables in the GCP mySQL database.
 
 **Instructions for Running:**
 1. Download the distributed zipped file from the drive link as follows:
