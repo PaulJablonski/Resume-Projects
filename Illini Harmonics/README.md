@@ -61,11 +61,19 @@ Note: This does not include all of the data as presented in the example usage be
 </p>
 
 <p align="center">
+  <img src="https://github.com/PaulJablonski/Resume-Projects/assets/148725115/535b739d-8970-4ddc-bff5-95f5bf1f6876">
+</p>
+
+<p align="center">  
+  Figure 6. Create a post page.
+</p>
+
+<p align="center">
   <img src="https://github.com/PaulJablonski/Resume-Projects/assets/148725115/e2b8e211-ea08-4e50-b96f-0e3fb0002d27">
 </p>
 
 <p align="center">  
-  Figure 6. Login page of.
+  Figure 7. Login page.
 </p>
 
 <p align="center">
@@ -73,7 +81,7 @@ Note: This does not include all of the data as presented in the example usage be
 </p>
 
 <p align="center">  
-  Figure 7. Signup page.
+  Figure 8. Signup page.
 </p>
 
 **Database Example Usage:**
@@ -83,7 +91,7 @@ Note: This does not include all of the data as presented in the example usage be
 </p>
 
 <p align="center">  
-  Figure 8. MySQL query presenting all data tables in database.
+  Figure 9. MySQL query presenting all data tables in database.
 </p>
 
 <p align="center">
@@ -91,7 +99,7 @@ Note: This does not include all of the data as presented in the example usage be
 </p>
 
 <p align="center">  
-  Figure 9. MySQL query displaying most popular songs on Illini Harmonics.
+  Figure 10. MySQL query displaying most popular songs on Illini Harmonics.
 </p>
 
 <p align="center">
@@ -99,5 +107,5 @@ Note: This does not include all of the data as presented in the example usage be
 </p>
 
 <p align="center">  
-  Figure 10. MySQL query displaying highest rating songs.
+  Figure 11. MySQL query displaying highest rating songs.
 </p>
