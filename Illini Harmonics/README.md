@@ -19,7 +19,7 @@ Users are capable of registering accounts, logging in, and creating posts on the
 
    https://drive.google.com/file/d/1kRmTPqloMmKDpv7__bXW53tQu9zKoE_s/view?usp=sharing
 2. Unzip the file, and setup Node.js alongside React on your local device.
-3. Due to the GCP shell not being public and limited in access, you may run the react app from the "Client" directory in the zipped folder. Redirect the Bash terminal to "Client" and utilize "npm run dev" in order to start the local website without data.
+3. Due to the GCP shell not being public and limited in access, you may only run the react app from the "Client" directory in the zipped folder. Redirect the Bash terminal to "Client" and utilize "npm run dev" in order to start the local website without data. Normally, node index.js would be simultaneously ran on another Bash terminal, but the GCP database is not currently running.
 
 Note: This does not include all of the data as presented in the example usage below, thus it runs only as the front-end framework.
 
