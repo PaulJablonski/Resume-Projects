@@ -22,6 +22,10 @@ The two player modules play off in a three minute round of 2D soccer, which ends
 
 <p align="center">
   <img src="https://github.com/PaulJablonski/Resume-Projects/assets/148725115/f74d8f76-8084-464a-b1f7-944f7c988b39" alt="HandwrittenExample3">
+  ![TopLevelLeft](https://github.com/user-attachments/assets/9b220716-2b3e-4145-8312-4b73530d2de9)
+  ![TopLevelMiddle](https://github.com/user-attachments/assets/083c600f-1ab3-45bc-86c9-7cb9778eb19f)
+  ![TopLevelRight](https://github.com/user-attachments/assets/747cc01b-b5b5-4547-8b86-ba8d3daaa4c0)
+
 </p>
 
 <p align="center">  
