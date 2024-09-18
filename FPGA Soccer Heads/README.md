@@ -10,6 +10,7 @@ The two player modules play off in a three minute round of 2D soccer, which ends
 * A physics system for gravity and acceleration, used for both players and the ball.
 * Menus with a finite state machine module that also controlled the overall match states.
 * Scorekeeping through collisions that displayed on both the FPGA hex display and HDMI display.
+* IP module creation and memory management for sprite palettes.
 * Sophisticated sprite drawing and animation creation.
 * AI module capable of player-like movement.
 
