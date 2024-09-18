@@ -16,7 +16,16 @@ The two player modules play off in a three minute round of 2D soccer, which ends
 
 **Included Files:**
 
-1. ____ - ___.
+1. Color_Mapper.sv - Contains variables for player heights, widths, positional location, and movements, in addition to the same for the goals and the ball. This allows it to draw the sprites properly based on the location of each individual object and the DrawX and DrawY inputs.
+2. FSM.sv - Contains inputs from the keyboard GPIO alongside the scoreboard, which tells the state machine when the game time is over. Outputs are then included for the current game mode, whether the score should be wiped, and the current state at hand.
+3. GoalPost.sv - Contains an input signal for LR, which indicates whether it is a left or right goal, which will affect the output positional variables.
+4. Player1.sv - Outputs positional variables for the player based on keyboard inputs and current location, which is then used in the color mapper to display the player and also to interact with the ball.
+5. PlayerAI.sv - Functions similar to the user-controlled player module, except it doesn’t utilize any keyboard inputs, instead it has an internal program that will determine movements based on the ball’s positional inputs.
+6. Scoreboard.sv - Uses clock division principles to convert the 25 MHz clock from the VGA controller into a 1 Hz clock used to count down the number of seconds from 180. Outputs the TimeOver signal once the game time is exhausted.
+7. VGA_controller.sv - Contains signals for handling the display and its implementation. Signals such as hs and vs ensure that the module is synchronizing the horizontal and vertical aspects of the display with respect to the inputs provided. Similarly, a pixel_clk is provided, which coincides with internal signals that serve as counters for both the vertical and horizontal synchronization of the display.
+8. ball.sv - Contains the logic for the ball, alongside its acceleration and movement in correspondence to the display boundaries. Inputs are fed in from both player modules and the goals in order to handle collision.
+9. hex.sv -  Consists of four generated submodules that convert nibbles of 4 bit hexadecimal characters into characters on a seven segment display hex_seg. The hex driver itself has additional functionality for resetting its values on the positive edge of its Clk input.
+10. mb_usb_hdmi_top.sv - Top level file that takes in inputs from clock, reset signal, GPIOs, USB, and UART modules within the block design. This module then outputs signals relevant to HDMI signaling for the VGA display connection. Modules are instantiated from all other listed parts in this report, this includes: Hexdrivers, an updated block design, clocking wizard, VGA to HDMI converter, a ball instance, the players, a color mapper, the FSM, and more.
 
 **Example Usage:**
 
