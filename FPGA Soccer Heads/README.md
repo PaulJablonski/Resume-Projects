@@ -6,7 +6,7 @@ This project recreated the classic flash game of Soccer Heads using SystemVerilo
 The two player modules play off in a three minute round of 2D soccer, which ends when the real-time timer is over or when one player scored nine goals. Recreating this game required implementing: 
 
 * VGA controller for Mode X graphics and conversion from analog to HDMI.
-* SPI protocols for connecting peripheral devices such as the keyboard used to control the player modules.
+* SPI protocols for connecting peripheral devices such as the keyboard with a MAX3421e interface.
 * IP module creation and arrangement, newly created IP modules primarily served for block memory and ROMs.
 * A physics system for gravity and acceleration, used for both players and the ball.
 * Menus with a finite state machine module that also controlled the overall match states.
