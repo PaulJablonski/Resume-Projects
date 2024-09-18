@@ -19,7 +19,47 @@ The two player modules play off in a three minute round of 2D soccer, which ends
 
 **Example Usage:**
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/04bbda36-5b07-4410-9a90-c6e6cefdf13e" alt="SH1"> 
+</p>
 
+<p align="center">  
+  Figure 1. Sprite-drawn main menu, featuring background and three separate button / title sprites.
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d80842f3-149a-4fe9-91f1-2fc83a2092749" alt="SH2"> 
+</p>
+
+<p align="center">  
+  Figure 2. Example of a game being played, with player, goal, and background sprites alongside the ball.
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c5541b6e-40c3-4d84-be44-0947ad72a6ae" alt="SH3"> 
+  <img src="https://github.com/user-attachments/assets/35829eb3-0dc9-4c0d-bf67-49daec986bf1" alt="SH4"> 
+</p>
+
+<p align="center">  
+  Figure 3. Player sprite animations.
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9a00e734-dec6-42df-9110-d580e5fd59fc" alt="SH5"> 
+</p>
+
+<p align="center">  
+  Figure 4. Goal post sprite, where pink was removed during color mapping and sprite was inverted for memory saving.
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f5675313-92cf-4874-9364-8a07df430baa" alt="SH6"> 
+  <img src="https://github.com/user-attachments/assets/835047fc-b6da-45eb-9719-b358676e6c78" alt="SH7"> 
+</p>
+
+<p align="center">  
+  Figure 5. Power-ups that were implemented into ‘Power Mode’, namely a temporary speed increase and goal size increase.
+</p>
 
 **FPGA Block Designs:**
 
