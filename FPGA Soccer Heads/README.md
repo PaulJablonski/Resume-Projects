@@ -21,11 +21,7 @@ The two player modules play off in a three minute round of 2D soccer, which ends
 **Example Usage:**
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9b220716-2b3e-4145-8312-4b73530d2de9" alt="TopLevelLeft">
-  ![TopLevelLeft](https://github.com/user-attachments/assets/9b220716-2b3e-4145-8312-4b73530d2de9)
-  ![TopLevelMiddle](https://github.com/user-attachments/assets/083c600f-1ab3-45bc-86c9-7cb9778eb19f)
-  ![TopLevelRight](https://github.com/user-attachments/assets/747cc01b-b5b5-4547-8b86-ba8d3daaa4c0)
-
+  <img src="https://github.com/user-attachments/assets/9b220716-2b3e-4145-8312-4b73530d2de9" alt="TopLevelLeft"> 
 </p>
 
 <p align="center">  
@@ -33,10 +29,17 @@ The two player modules play off in a three minute round of 2D soccer, which ends
 </p>
 
 <p align="center">
-  <img src="https://github.com/PaulJablonski/Resume-Projects/assets/148725115/d5aba49c-e7a1-4cc4-a2e5-1af51f7db88a" alt="HandwrittenExample2">
+  <img src="https://github.com/user-attachments/assets/083c600f-1ab3-45bc-86c9-7cb9778eb19f" alt="TopLevelMiddle">
 </p>
 
 <p align="center">
   Figure 2. .
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/747cc01b-b5b5-4547-8b86-ba8d3daaa4c0" alt="TopLevelRight">
+</p>
+
+<p align="center">
+  Figure 3. .
+</p>
