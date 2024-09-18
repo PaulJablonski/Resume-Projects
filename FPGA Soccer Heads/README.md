@@ -26,6 +26,8 @@ The two player modules play off in a three minute round of 2D soccer, which ends
 8. ball.sv - Contains the logic for the ball, alongside its acceleration and movement in correspondence to the display boundaries. Inputs are fed in from both player modules and the goals in order to handle collision.
 9. hex.sv -  Consists of four generated submodules that convert nibbles of 4 bit hexadecimal characters into characters on a seven segment display hex_seg. The hex driver itself has additional functionality for resetting its values on the positive edge of its Clk input.
 10. mb_usb_hdmi_top.sv - Top level file that takes in inputs from clock, reset signal, GPIOs, USB, and UART modules within the block design. This module then outputs signals relevant to HDMI signaling for the VGA display connection. Modules are instantiated from all other listed parts in this report, this includes: Hexdrivers, an updated block design, clocking wizard, VGA to HDMI converter, a ball instance, the players, a color mapper, the FSM, and more.
+11. ROM Files - Block memory generated IPs that serve as the ROM for various assets, they store the indices from the generated and corresponding COE file, which inevitably is called to determine color mapping.
+12. Palette Files - Contain the color palettes for individual sprites and text.
 
 **Example Usage:**
 
