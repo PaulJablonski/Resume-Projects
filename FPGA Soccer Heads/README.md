@@ -72,7 +72,7 @@ The two player modules play off in a three minute round of 2D soccer, which ends
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c2ce4824-a5a1-4172-a317-d4415896b78c" alt="BD2"> 
+  <img src="https://github.com/user-attachments/assets/8905ec7a-c980-4510-b3a1-c886fd9d791f" alt="BD2"> 
 </p>
 
 <p align="center">  
