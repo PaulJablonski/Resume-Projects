@@ -23,7 +23,7 @@ The two player modules play off in a three minute round of 2D soccer, which ends
 </p>
 
 <p align="center">  
-  Figure 1. Top Level Design Left Side.
+  Figure 1. Top level design left side.
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ The two player modules play off in a three minute round of 2D soccer, which ends
 </p>
 
 <p align="center">
-  Figure 2. Top Level Design Middle.
+  Figure 2. Top level design middle.
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@ The two player modules play off in a three minute round of 2D soccer, which ends
 </p>
 
 <p align="center">
-  Figure 3. Top Level Design Right Side.
+  Figure 3. Top level design right side.
 </p>
 
 **Example Usage:**
