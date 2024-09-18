@@ -9,7 +9,7 @@ The two player modules play off in a three minute round of 2D soccer, which ends
 * SPI protocols for connecting peripheral devices such as the keyboard used to control the player modules.
 * A physics system for gravity and acceleration, used for both players and the ball.
 * Menus with a finite state machine that also controlled the overall match states.
-* Collision detection with the ball and goals, alongside game boundaries and other objects.
+* Scorekeeping through collisions that also displayed on the FPGA hex display.
 * Sophisticated sprite drawing and animation creation.
 * AI capable of player-like movement.
 
@@ -61,6 +61,74 @@ The two player modules play off in a three minute round of 2D soccer, which ends
   Figure 5. Power-ups that were implemented into ‘Power Mode’, namely a temporary speed increase and goal size increase.
 </p>
 
+**Block Diagrams:**
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a35c9a53-b45c-4767-b3a1-1aed4b98e603" alt="BD1"> 
+</p>
+
+<p align="center">  
+  Figure 6. Overall block diagram for project and toplevel.
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c2ce4824-a5a1-4172-a317-d4415896b78c" alt="BD2"> 
+</p>
+
+<p align="center">  
+  Figure 7. State transition diagram for game state and menus.
+</p>
+
+**Key RTL Diagrams:**
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c7204bd1-6323-42c3-83b2-535e0ffd4cf0" alt="RTL1"> 
+</p>
+
+<p align="center">  
+  Figure 8. RTL diagram for the VGA controller module.
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/95f9ae38-9b0c-431e-b47d-42e86d226d5a" alt="RTL2"> 
+</p>
+
+<p align="center">  
+  Figure 9. RTL diagram for player one module.
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/40493adb-dfc0-4038-b80f-18bf76616e7c" alt="RTL3"> 
+</p>
+
+<p align="center">  
+  Figure 10. RTL diagram for the finite state machine.
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7a200a03-19b6-4705-bcfd-fe89efe9d6d0" alt="RTL4"> 
+</p>
+
+<p align="center">  
+  Figure 11. RTL diagram for hex display module.
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/15851a51-a521-41b3-9ac6-fdaaafbcb34d" alt="RTL5"> 
+</p>
+
+<p align="center">  
+  Figure 12. RTL diagram for color mapper module.
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/29e48dd1-3e1e-4ff7-b896-fa4f3ad2b8f1" alt="RTL6"> 
+</p>
+
+<p align="center">  
+  Figure 13. RTL diagram for physics-based ball module.
+</p>
+
 **FPGA Block Designs:**
 
 <p align="center">
@@ -68,7 +136,7 @@ The two player modules play off in a three minute round of 2D soccer, which ends
 </p>
 
 <p align="center">  
-  Figure 6. Top level design left side.
+  Figure 14. Top level design left side.
 </p>
 
 <p align="center">
@@ -76,7 +144,7 @@ The two player modules play off in a three minute round of 2D soccer, which ends
 </p>
 
 <p align="center">
-  Figure 7. Top level design middle.
+  Figure 15. Top level design middle.
 </p>
 
 <p align="center">
@@ -84,5 +152,5 @@ The two player modules play off in a three minute round of 2D soccer, which ends
 </p>
 
 <p align="center">
-  Figure 8. Top level design right side.
+  Figure 16. Top level design right side.
 </p>
