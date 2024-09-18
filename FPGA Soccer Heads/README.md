@@ -79,6 +79,14 @@ The two player modules play off in a three minute round of 2D soccer, which ends
   Figure 7. State transition diagram for game state and menus.
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d805b733-0a63-417d-8f94-c3e9cc33f31f" alt="BD3"> 
+</p>
+
+<p align="center">  
+  Figure 8. IP diagram for Microblaze configuration.
+</p>
+
 **Key RTL Diagrams:**
 
 <p align="center">
@@ -86,7 +94,7 @@ The two player modules play off in a three minute round of 2D soccer, which ends
 </p>
 
 <p align="center">  
-  Figure 8. RTL diagram for the VGA controller module.
+  Figure 9. RTL diagram for the VGA controller module.
 </p>
 
 <p align="center">
@@ -94,7 +102,7 @@ The two player modules play off in a three minute round of 2D soccer, which ends
 </p>
 
 <p align="center">  
-  Figure 9. RTL diagram for player one module.
+  Figure 10. RTL diagram for player one module.
 </p>
 
 <p align="center">
@@ -102,7 +110,7 @@ The two player modules play off in a three minute round of 2D soccer, which ends
 </p>
 
 <p align="center">  
-  Figure 10. RTL diagram for the finite state machine.
+  Figure 11. RTL diagram for the finite state machine.
 </p>
 
 <p align="center">
@@ -110,7 +118,7 @@ The two player modules play off in a three minute round of 2D soccer, which ends
 </p>
 
 <p align="center">  
-  Figure 11. RTL diagram for hex display module.
+  Figure 12. RTL diagram for hex display module.
 </p>
 
 <p align="center">
@@ -118,7 +126,7 @@ The two player modules play off in a three minute round of 2D soccer, which ends
 </p>
 
 <p align="center">  
-  Figure 12. RTL diagram for color mapper module.
+  Figure 13. RTL diagram for color mapper module.
 </p>
 
 <p align="center">
@@ -126,7 +134,7 @@ The two player modules play off in a three minute round of 2D soccer, which ends
 </p>
 
 <p align="center">  
-  Figure 13. RTL diagram for physics-based ball module.
+  Figure 14. RTL diagram for physics-based ball module.
 </p>
 
 **FPGA Block Designs:**
@@ -136,7 +144,7 @@ The two player modules play off in a three minute round of 2D soccer, which ends
 </p>
 
 <p align="center">  
-  Figure 14. Top level design left side.
+  Figure 15. Top level design left side.
 </p>
 
 <p align="center">
@@ -144,7 +152,7 @@ The two player modules play off in a three minute round of 2D soccer, which ends
 </p>
 
 <p align="center">
-  Figure 15. Top level design middle.
+  Figure 16. Top level design middle.
 </p>
 
 <p align="center">
@@ -152,5 +160,5 @@ The two player modules play off in a three minute round of 2D soccer, which ends
 </p>
 
 <p align="center">
-  Figure 16. Top level design right side.
+  Figure 17. Top level design right side.
 </p>
