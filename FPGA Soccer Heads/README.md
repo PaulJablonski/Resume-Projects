@@ -11,7 +11,7 @@ The two player modules play off in a three minute round of 2D soccer, which ends
 * Menus with a finite state machine that also controlled the overall match states.
 * Scorekeeping through collisions that also displayed on the FPGA hex display.
 * Sophisticated sprite drawing and animation creation.
-* AI capable of player-like movement.
+* AI module capable of player-like movement.
 
 **Included Files:**
 
