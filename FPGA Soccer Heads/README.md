@@ -16,6 +16,10 @@ The two player modules play off in a three minute round of 2D soccer, which ends
 
 1. ____ - ___.
 
+**Example Usage:**
+
+
+
 **FPGA Block Designs:**
 
 <p align="center">
@@ -41,5 +45,3 @@ The two player modules play off in a three minute round of 2D soccer, which ends
 <p align="center">
   Figure 3. Top level design right side.
 </p>
-
-**Example Usage:**
