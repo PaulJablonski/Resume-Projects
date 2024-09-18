@@ -18,14 +18,12 @@ The two player modules play off in a three minute round of 2D soccer, which ends
 
 **FPGA Block Designs:**
 
-**Example Usage:**
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9b220716-2b3e-4145-8312-4b73530d2de9" alt="TopLevelLeft"> 
 </p>
 
 <p align="center">  
-  Figure 1. .
+  Figure 1. Top Level Design Left Side.
 </p>
 
 <p align="center">
@@ -33,7 +31,7 @@ The two player modules play off in a three minute round of 2D soccer, which ends
 </p>
 
 <p align="center">
-  Figure 2. .
+  Figure 2. Top Level Design Middle.
 </p>
 
 <p align="center">
@@ -41,5 +39,7 @@ The two player modules play off in a three minute round of 2D soccer, which ends
 </p>
 
 <p align="center">
-  Figure 3. .
+  Figure 3. Top Level Design Right Side.
 </p>
+
+**Example Usage:**
