@@ -5,11 +5,11 @@
 This project recreated the classic flash game of Soccer Heads using SystemVerilog and C onto a Microblaze FGPA board. This game involves two player modules, one controlled by the user and one by an AI program. 
 The two player modules play off in a three minute round of 2D soccer, which ends when the real-time timer is over or when one player scored nine goals. Recreating this game required implementing: 
 
-* SPI protocols for connecting peripheral devices
-* A physics system for gravity and acceleration
-* Menus with a finite state machine
-* Collision detection with the ball and goals
-* Sophisticated sprite drawing
+* SPI protocols for connecting peripheral devices.
+* A physics system for gravity and acceleration.
+* Menus with a finite state machine.
+* Collision detection with the ball and goals.
+* Sophisticated sprite drawing.
 * AI capable of player-like movement.
 
 **Included Files:**
