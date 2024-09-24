@@ -73,14 +73,22 @@ The two player modules play off in a three minute round of 2D soccer, which ends
   Figure 5. Power-ups that were implemented into ‘Power Mode’, namely a temporary speed increase and goal size increase.
 </p>
 
-**Block Diagrams:**
+**Block Diagrams / FPGA:**
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/80058069-5bec-4ddb-9144-aa3d0c21e82c" alt="FPGA"> 
+</p>
+
+<p align="center">  
+  Figure 6. Urbana Microblaze FPGA board.
+</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a35c9a53-b45c-4767-b3a1-1aed4b98e603" alt="BD1"> 
 </p>
 
 <p align="center">  
-  Figure 6. Overall block diagram for project and toplevel.
+  Figure 7. Overall block diagram for project and toplevel.
 </p>
 
 <p align="center">
@@ -88,7 +96,7 @@ The two player modules play off in a three minute round of 2D soccer, which ends
 </p>
 
 <p align="center">  
-  Figure 7. State transition diagram for game state and menus.
+  Figure 8. State transition diagram for game state and menus.
 </p>
 
 <p align="center">
@@ -96,7 +104,7 @@ The two player modules play off in a three minute round of 2D soccer, which ends
 </p>
 
 <p align="center">  
-  Figure 8. IP diagram for Microblaze configuration.
+  Figure 9. IP diagram for Microblaze configuration.
 </p>
 
 **Key RTL Diagrams:**
@@ -106,7 +114,7 @@ The two player modules play off in a three minute round of 2D soccer, which ends
 </p>
 
 <p align="center">  
-  Figure 9. RTL diagram for the VGA controller module.
+  Figure 10. RTL diagram for the VGA controller module.
 </p>
 
 <p align="center">
@@ -114,7 +122,7 @@ The two player modules play off in a three minute round of 2D soccer, which ends
 </p>
 
 <p align="center">  
-  Figure 10. RTL diagram for player one module.
+  Figure 11. RTL diagram for player one module.
 </p>
 
 <p align="center">
@@ -122,7 +130,7 @@ The two player modules play off in a three minute round of 2D soccer, which ends
 </p>
 
 <p align="center">  
-  Figure 11. RTL diagram for the finite state machine.
+  Figure 12. RTL diagram for the finite state machine.
 </p>
 
 <p align="center">
@@ -130,7 +138,7 @@ The two player modules play off in a three minute round of 2D soccer, which ends
 </p>
 
 <p align="center">  
-  Figure 12. RTL diagram for hex display module.
+  Figure 13. RTL diagram for hex display module.
 </p>
 
 <p align="center">
@@ -138,7 +146,7 @@ The two player modules play off in a three minute round of 2D soccer, which ends
 </p>
 
 <p align="center">  
-  Figure 13. RTL diagram for color mapper module.
+  Figure 14. RTL diagram for color mapper module.
 </p>
 
 <p align="center">
@@ -146,7 +154,7 @@ The two player modules play off in a three minute round of 2D soccer, which ends
 </p>
 
 <p align="center">  
-  Figure 14. RTL diagram for physics-based ball module.
+  Figure 15. RTL diagram for physics-based ball module.
 </p>
 
 **FPGA Block Designs:**
@@ -156,7 +164,7 @@ The two player modules play off in a three minute round of 2D soccer, which ends
 </p>
 
 <p align="center">  
-  Figure 15. Top level design left side.
+  Figure 16. Top level design left side.
 </p>
 
 <p align="center">
@@ -164,7 +172,7 @@ The two player modules play off in a three minute round of 2D soccer, which ends
 </p>
 
 <p align="center">
-  Figure 16. Top level design middle.
+  Figure 17. Top level design middle.
 </p>
 
 <p align="center">
@@ -172,5 +180,5 @@ The two player modules play off in a three minute round of 2D soccer, which ends
 </p>
 
 <p align="center">
-  Figure 17. Top level design right side.
+  Figure 18. Top level design right side.
 </p>
