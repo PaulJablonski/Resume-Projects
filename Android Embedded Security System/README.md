@@ -136,5 +136,5 @@ Note: All .java files listed below are also found within the "FinalAndroid" fold
 </p>
 
 <p align="center">  
-  Figure 12. Average edge group pixels are used to form the final bounding box and object proposal through DB-clustering.
+  Figure 12. Average edge group pixels are used to form the final bounding box and object proposal through DB-clustering. K-means for color analysis is performed here, as shown before in "Example Usage".
 </p>
