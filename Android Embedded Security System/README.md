@@ -69,10 +69,9 @@ Note: All .java files listed below are also found within the "FinalAndroid" fold
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f5675313-92cf-4874-9364-8a07df430baa" alt="SH6"> 
-  <img src="https://github.com/user-attachments/assets/835047fc-b6da-45eb-9719-b358676e6c78" alt="SH7"> 
+  <img src="https://github.com/user-attachments/assets/19476133-f70d-4748-a184-1fd5c0031125" alt="AE5"> 
 </p>
 
 <p align="center">  
-  Figure 5. Power-ups that were implemented into ‘Power Mode’, namely a temporary speed increase and goal size increase.
+  Figure 5. Example of multiple object detection, where different labels and color compositions are assigned.
 </p>
