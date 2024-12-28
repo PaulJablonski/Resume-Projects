@@ -128,7 +128,7 @@ Note: All .java files listed below are also found within the "FinalAndroid" fold
 </p>
 
 <p align="center">  
-  Figure 11. Flood fill algorithm groups edges based on orientations, then edge groups are reduced to their average pixel location.
+  Figure 11. Flood fill algorithm groups edges based on orientations, then edge groups are reduced to their average pixel location as shown on the right.
 </p>
 
 <p align="center">
