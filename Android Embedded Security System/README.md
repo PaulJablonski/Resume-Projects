@@ -27,7 +27,7 @@ Note: All .java files listed below are also found within the "FinalAndroid" fold
 4. MainActivity.java - Calls image processing functions and structures the main program and its functionality.
 5. MetaData.java - Defines a metadata class for storing timestamp and image dimensional data.
 6. Playback.java - Handles the functionality of the playback menu and image retrieval, allowing for proper display of stored images after main pipeline has been ran.
-7. PythonPrototype.py - Python prototype implementation. This file is generally the same as the final Android implementation, but varies as it uses a structured edge detection model, imports a DB-scan library, and imports a k-means algorithm. Whereas, the final Android version implements all of this manually, and uses OpenCV for canny edge detection.
+7. PythonPrototype.py - Python prototype implementation. This file's pipeline structure is similar to the final Android implementation, but varies as it uses a structured edge detection model, imports a DB-scan library, and imports a k-means algorithm. Whereas, the final Android version implements all of this manually, and uses OpenCV for canny edge detection.
 
 **Example Usage:**
 
