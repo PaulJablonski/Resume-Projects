@@ -93,3 +93,30 @@ Note: All .java files listed below are also found within the "FinalAndroid" fold
 <p align="center">  
   Figure 7. Custom flood fill algorithm flow chart.
 </p>
+
+**Pipeline Demonstration:**
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d68337a9-18d2-4a40-85d5-8e6a021be972" alt="AE7" width="50%">
+  <img src="https://github.com/user-attachments/assets/e13988db-d1e3-4db9-af08-e380f8932db7" alt="AE7" width="50%">
+</p>
+
+<p align="center">  
+  Figure 7. Calibration frame comparison and bitmask thresholding.
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/29bc036f-1251-4090-a35f-d9f421bf705d" alt="AE7" width="50%"> 
+</p>
+
+<p align="center">  
+  Figure 7. Custom flood fill algorithm flow chart.
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/29bc036f-1251-4090-a35f-d9f421bf705d" alt="AE7" width="50%"> 
+</p>
+
+<p align="center">  
+  Figure 7. Custom flood fill algorithm flow chart.
+</p>
