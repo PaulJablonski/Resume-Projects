@@ -115,9 +115,26 @@ Note: All .java files listed below are also found within the "FinalAndroid" fold
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/36bf3d13-6833-4142-9a38-cdad32680ee0" alt="AE7" width="50%"> 
+  <img src="https://github.com/user-attachments/assets/36bf3d13-6833-4142-9a38-cdad32680ee0" alt="AE10" width="50%"> 
 </p>
 
 <p align="center">  
   Figure 10. Edge orientation calculation finds the gradients of edges along the X and Y directions.
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5926653a-42fd-4f25-b15c-89d1e2caab44" alt="AE11" width="40%">
+  <img src="https://github.com/user-attachments/assets/d70e57bb-f272-4453-9dca-4edc1412cc3a" alt="AE11" width="40%">  
+</p>
+
+<p align="center">  
+  Figure 11. Flood fill algorithm groups edges based on orientations, then edge groups are reduced to their average pixel location.
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e1089789-c779-47a1-a09a-86d4181deefc" alt="AE12" width="50%"> 
+</p>
+
+<p align="center">  
+  Figure 12. Average edge group pixels are used to form the final bounding box and object proposal through DB-clustering.
 </p>
