@@ -18,6 +18,7 @@ The final implementation is divisible into the following general functionalities
 
 
 **Included Files:**
+
 Note: All .java files listed below are also found within the "FinalAndroid" folder, and were simply copied here for ease of access. They contain the most important functionalities and implementations from this project.
 
 1. FinalAndroid -
