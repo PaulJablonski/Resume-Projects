@@ -41,32 +41,31 @@ Note: All .java files listed below are also found within the "FinalAndroid" fold
 </p>
 
 <p align="center">  
-  Figure 1. Sprite-drawn main menu, featuring background and three separate button / title sprites.
+  Figure 1. Main program menu, including the START, STOP, camera FLIP, and image PLAYBACK buttons.
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d80842f3-149a-4fe9-91f1-2fc83a2092749" alt="SH2"> 
+  <img src="https://github.com/user-attachments/assets/c0491935-41e9-476a-b365-7273d3a4b620" alt="AE2"> 
 </p>
 
 <p align="center">  
-  Figure 2. Example of a game being played, with player, goal, and background sprites alongside the ball.
+  Figure 2. Example of single person detection, the object is labelled, timestamped, and the top six color content is displayed.
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c5541b6e-40c3-4d84-be44-0947ad72a6ae" alt="SH3"> 
-  <img src="https://github.com/user-attachments/assets/35829eb3-0dc9-4c0d-bf67-49daec986bf1" alt="SH4"> 
+  <img src="https://github.com/user-attachments/assets/959c54df-f5a5-4044-bd99-64bd27779fde" alt="AE3"> 
 </p>
 
 <p align="center">  
-  Figure 3. Player sprite animations.
+  Figure 3. Object label remains the same despite movement and orientation changes.
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9a00e734-dec6-42df-9110-d580e5fd59fc" alt="SH5"> 
+  <img src="https://github.com/user-attachments/assets/4bd0d346-ae0e-4f63-bc80-98c53fa0c33b" alt="AE4"> 
 </p>
 
 <p align="center">  
-  Figure 4. Goal post sprite, where pink was removed during color mapping and sprite was inverted for memory saving.
+  Figure 4. Playback menu, with a timestamp bar that is scrollable at the bottom, alongside overlaid images over time.
 </p>
 
 <p align="center">
