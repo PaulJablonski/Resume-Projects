@@ -41,7 +41,7 @@ Note: All .java files listed below are also found within the "FinalAndroid" fold
 </p>
 
 <p align="center">  
-  Figure 1. Main program menu, including the START, STOP, camera FLIP, and image PLAYBACK buttons.
+  Figure 1. Main program menu, including the START, STOP, camera FLIP, and image PLAYBACK buttons. Calibration image is taken here.
 </p>
 
 <p align="center">
