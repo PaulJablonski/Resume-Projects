@@ -75,3 +75,21 @@ Note: All .java files listed below are also found within the "FinalAndroid" fold
 <p align="center">  
   Figure 5. Example of multiple object detection, where different labels and color compositions are assigned.
 </p>
+
+**Block Diagrams:**
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/630aad73-e9a8-4438-aeba-0b5d351c9d1a" alt="AE6"> 
+</p>
+
+<p align="center">  
+  Figure 6. Overall DSP and image processing pipeline.
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/29bc036f-1251-4090-a35f-d9f421bf705d" alt="AE7"> 
+</p>
+
+<p align="center">  
+  Figure 7. Custom flood fill algorithm flow chart.
+</p>
