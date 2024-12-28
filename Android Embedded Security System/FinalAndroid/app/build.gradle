@@ -1,0 +1,37 @@
+apply plugin: 'com.android.application'
+
+android {
+    namespace 'com.ece420.finalproject'
+    compileSdk 29 // Match the generated `.so` files targeting android-29
+
+    defaultConfig {
+        applicationId "com.ece420.finalproject"
+        minSdk 28
+        targetSdk 29 // Ensure this matches `ANDROID_PLATFORM` in CMake
+        versionCode 1
+        versionName "1.0"
+
+        // Add this to load native libraries
+        ndk {
+            abiFilters 'arm64-v8a' // Include ABIs for your `.so` files
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    // Packaging options for native libraries
+    packagingOptions {
+        pickFirst "**/*.so"
+    }
+}
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'lib')
+    implementation 'com.quickbirdstudios:opencv-contrib:3.4.5'
+    implementation 'androidx.core:core-ktx:1.1.0'
+}

@@ -1,0 +1,77 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:opencv="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.ece420.finalproject.MainActivity">
+
+    <!-- Stop Button -->
+    <Button
+        android:id="@+id/stopButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="188dp"
+        android:layout_marginEnd="16dp"
+        android:width="130dp"
+        android:height="60dp"
+        android:text="@string/stop" />
+
+    <!-- Camera Preview -->
+
+    <Button
+        android:id="@+id/n"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="346dp"
+        android:layout_marginEnd="16dp"
+        android:width="130dp"
+        android:height="60dp"
+        android:text="FLIP" />
+
+    <org.opencv.android.JavaCameraView
+        android:id="@+id/opencv_camera_preview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="150dp"
+        android:visibility="gone"
+        opencv:camera_id="any"
+        opencv:show_fps="true" />
+
+    <!-- Start Button -->
+    <Button
+        android:id="@+id/startButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="73dp"
+        android:layout_marginEnd="15dp"
+        android:width="130dp"
+        android:height="60dp"
+        android:text="@string/start" />
+
+    <!-- Playback Button -->
+    <Button
+        android:id="@+id/playbackButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="457dp"
+        android:layout_marginEnd="16dp"
+        android:width="130dp"
+        android:height="60dp"
+        android:text="PLAYBACK" />
+
+</RelativeLayout>
+
