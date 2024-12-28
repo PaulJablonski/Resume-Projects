@@ -97,26 +97,27 @@ Note: All .java files listed below are also found within the "FinalAndroid" fold
 **Pipeline Demonstration:**
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d68337a9-18d2-4a40-85d5-8e6a021be972" alt="AE7" width="30%">
-  <img src="https://github.com/user-attachments/assets/e13988db-d1e3-4db9-af08-e380f8932db7" alt="AE7" width="30%">
+  <img src="https://github.com/user-attachments/assets/d68337a9-18d2-4a40-85d5-8e6a021be972" alt="AE8" width="40%">
+  <img src="https://github.com/user-attachments/assets/e13988db-d1e3-4db9-af08-e380f8932db7" alt="AE8" width="40%">
 </p>
 
 <p align="center">  
-  Figure 7. Calibration frame comparison and bitmask thresholding.
+  Figure 8. Calibration frame comparison and bitmask thresholding.
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/29bc036f-1251-4090-a35f-d9f421bf705d" alt="AE7" width="50%"> 
+  <img src="https://github.com/user-attachments/assets/aeda20f8-4b40-4e1e-a35d-8de02e6536e8" alt="AE9" width="40%">
+  <img src="https://github.com/user-attachments/assets/25503285-bab2-4831-bbcc-94191459bc67" alt="AE9" width="40%"> 
 </p>
 
 <p align="center">  
-  Figure 7. Custom flood fill algorithm flow chart.
+  Figure 9. OPEN and CLOSE operations fill the bitmasked figure, whereas Canny edge detection here generates an outline of the bitmask.
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/29bc036f-1251-4090-a35f-d9f421bf705d" alt="AE7" width="50%"> 
+  <img src="https://github.com/user-attachments/assets/36bf3d13-6833-4142-9a38-cdad32680ee0" alt="AE7" width="50%"> 
 </p>
 
 <p align="center">  
-  Figure 7. Custom flood fill algorithm flow chart.
+  Figure 10. Edge orientation calculation finds the gradients of edges along the X and Y directions.
 </p>
