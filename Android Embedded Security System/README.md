@@ -123,8 +123,8 @@ Note: All .java files listed below are also found within the "FinalAndroid" fold
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5926653a-42fd-4f25-b15c-89d1e2caab44" alt="AE11" width="40%">
-  <img src="https://github.com/user-attachments/assets/d70e57bb-f272-4453-9dca-4edc1412cc3a" alt="AE11" width="40%">  
+  <img src="https://github.com/user-attachments/assets/c2f97970-99f7-41d1-bde6-f1f41486eb5c" alt="AE11" width="40%">
+  <img src="https://github.com/user-attachments/assets/20e05b09-7893-4d06-828f-7f9535867439" alt="AE11" width="40%">  
 </p>
 
 <p align="center">  
