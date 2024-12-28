@@ -29,6 +29,11 @@ Note: All .java files listed below are also found within the "FinalAndroid" fold
 6. Playback.java - Handles the functionality of the playback menu and image retrieval, allowing for proper display of stored images after main pipeline has been ran.
 7. PythonPrototype.py - Python prototype implementation. This file's pipeline structure is similar to the final Android implementation, but varies as it uses a structured edge detection model, imports a DB-scan library, and imports a k-means algorithm. Whereas, the final Android version implements all of this manually, and uses OpenCV for canny edge detection.
 
+**Instructions for Running:**
+1. Download the "FinalAndroid" folder for testing on a local Android device, or download the "PythonPrototype.py" file if testing on a desktop device. Note that the former performs better and has more manual optimizations than the prototype.
+2. If testing Android version, open the folder in the latest version of Android Studio and allow the Gradle files to build. Then connect your device via USB, and press the run button to test.
+3. If testing the prototype, simply load the prototype file in the IDE of your choice and run the file, make sure all libraries are installed.
+
 **Example Usage:**
 
 <p align="center">
