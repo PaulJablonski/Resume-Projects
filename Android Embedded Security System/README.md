@@ -97,8 +97,8 @@ Note: All .java files listed below are also found within the "FinalAndroid" fold
 **Pipeline Demonstration:**
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d68337a9-18d2-4a40-85d5-8e6a021be972" alt="AE7" width="50%">
-  <img src="https://github.com/user-attachments/assets/e13988db-d1e3-4db9-af08-e380f8932db7" alt="AE7" width="50%">
+  <img src="https://github.com/user-attachments/assets/d68337a9-18d2-4a40-85d5-8e6a021be972" alt="AE7" width="30%">
+  <img src="https://github.com/user-attachments/assets/e13988db-d1e3-4db9-af08-e380f8932db7" alt="AE7" width="30%">
 </p>
 
 <p align="center">  
