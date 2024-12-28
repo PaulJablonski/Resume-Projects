@@ -37,7 +37,7 @@ Note: All .java files listed below are also found within the "FinalAndroid" fold
 **Example Usage:**
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5d37d7b2-49c7-45f7-a474-ae6011c1aa7d" alt="AE1"> 
+  <img src="https://github.com/user-attachments/assets/5d37d7b2-49c7-45f7-a474-ae6011c1aa7d" alt="AE1" width="50%"> 
 </p>
 
 <p align="center">  
@@ -45,7 +45,7 @@ Note: All .java files listed below are also found within the "FinalAndroid" fold
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c0491935-41e9-476a-b365-7273d3a4b620" alt="AE2"> 
+  <img src="https://github.com/user-attachments/assets/c0491935-41e9-476a-b365-7273d3a4b620" alt="AE2" width="50%"> 
 </p>
 
 <p align="center">  
@@ -53,7 +53,7 @@ Note: All .java files listed below are also found within the "FinalAndroid" fold
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/959c54df-f5a5-4044-bd99-64bd27779fde" alt="AE3"> 
+  <img src="https://github.com/user-attachments/assets/959c54df-f5a5-4044-bd99-64bd27779fde" alt="AE3" width="50%"> 
 </p>
 
 <p align="center">  
@@ -61,7 +61,7 @@ Note: All .java files listed below are also found within the "FinalAndroid" fold
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4bd0d346-ae0e-4f63-bc80-98c53fa0c33b" alt="AE4"> 
+  <img src="https://github.com/user-attachments/assets/4bd0d346-ae0e-4f63-bc80-98c53fa0c33b" alt="AE4" width="50%"> 
 </p>
 
 <p align="center">  
@@ -69,7 +69,7 @@ Note: All .java files listed below are also found within the "FinalAndroid" fold
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/19476133-f70d-4748-a184-1fd5c0031125" alt="AE5"> 
+  <img src="https://github.com/user-attachments/assets/19476133-f70d-4748-a184-1fd5c0031125" alt="AE5" width="50%"> 
 </p>
 
 <p align="center">  
@@ -79,7 +79,7 @@ Note: All .java files listed below are also found within the "FinalAndroid" fold
 **Block Diagrams:**
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/630aad73-e9a8-4438-aeba-0b5d351c9d1a" alt="AE6"> 
+  <img src="https://github.com/user-attachments/assets/630aad73-e9a8-4438-aeba-0b5d351c9d1a" alt="AE6" width="50%"> 
 </p>
 
 <p align="center">  
@@ -87,7 +87,7 @@ Note: All .java files listed below are also found within the "FinalAndroid" fold
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/29bc036f-1251-4090-a35f-d9f421bf705d" alt="AE7"> 
+  <img src="https://github.com/user-attachments/assets/29bc036f-1251-4090-a35f-d9f421bf705d" alt="AE7" width="50%"> 
 </p>
 
 <p align="center">  
