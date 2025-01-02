@@ -21,13 +21,14 @@ The final implementation is divisible into the following general functionalities
 
 Note: All .java files listed below are also found within the "FinalAndroid" folder, and were simply copied here for ease of access. They contain the most important functionalities and implementations from this project.
 
-1. FinalAndroid - Compiled and cleaned Android Studio folder. Contains all necessary files to run this security system program on a local Android device. Simply open this folder in Android Studio, build the project, and click the "run" button to test the software.
-2. ImageData.java - Defines the image storage class for playback and image file management.
-3. ImageProcessingUtils.java - Contains all image-processing related functions as part of the main digital signal processing pipeline. All of these functions are called in the next file.
-4. MainActivity.java - Calls image processing functions and structures the main program and its functionality.
-5. MetaData.java - Defines a metadata class for storing timestamp and image dimensional data.
-6. Playback.java - Handles the functionality of the playback menu and image retrieval, allowing for proper display of stored images after main pipeline has been ran.
-7. PythonPrototype.py - Python prototype implementation. This file's pipeline structure is similar to the final Android implementation, but varies as it uses a structured edge detection model, imports a DB-scan library, and imports a k-means algorithm. Whereas, the final Android version implements all of this manually, and uses OpenCV for canny edge detection.
+1. AndroidSecurityOverview.pdf - Includes a comprehensive final report regarding this project and all technical details necessary to understand its purpose and functionality.
+2. FinalAndroid - Compiled and cleaned Android Studio folder. Contains all necessary files to run this security system program on a local Android device. Simply open this folder in Android Studio, build the project, and click the "run" button to test the software.
+3. ImageData.java - Defines the image storage class for playback and image file management.
+4. ImageProcessingUtils.java - Contains all image-processing related functions as part of the main digital signal processing pipeline. All of these functions are called in the next file.
+5. MainActivity.java - Calls image processing functions and structures the main program and its functionality.
+6. MetaData.java - Defines a metadata class for storing timestamp and image dimensional data.
+7. Playback.java - Handles the functionality of the playback menu and image retrieval, allowing for proper display of stored images after main pipeline has been ran.
+8. PythonPrototype.py - Python prototype implementation. This file's pipeline structure is similar to the final Android implementation, but varies as it uses a structured edge detection model, imports a DB-scan library, and imports a k-means algorithm. Whereas, the final Android version implements all of this manually, and uses OpenCV for canny edge detection.
 
 **Instructions for Running:**
 1. Download the "FinalAndroid" folder for testing on a local Android device, or download the "PythonPrototype.py" file if testing on a desktop device. Note that the former performs better and has more manual optimizations than the prototype.
