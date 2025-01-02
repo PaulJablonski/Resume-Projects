@@ -72,6 +72,15 @@ The toy itself comprises four total subsystems:
   Figure 5. Functionality of motor operations in final toy, red LED representing directions, and green representing motor steps. Laser detection here demonstrates directional change.
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d30a680f-ef78-472a-a9fe-f1a8ab3ae1d6" alt="CT5" width="40%"> 
+  <img src="https://github.com/user-attachments/assets/af02d1b6-ef06-4718-a7b8-f74558e40842" alt="CT5" width="40%"> 
+</p>
+
+<p align="center">  
+  Figure 6. Vibration and treat dispensing functionality on display, treats are dispensed after three taps (catches).
+</p>
+
 **Design Figures:**
 
 <p align="center">
@@ -79,7 +88,7 @@ The toy itself comprises four total subsystems:
 </p>
 
 <p align="center">  
-  Figure 6. Block diagram for overall subsystems and their connections.
+  Figure 7. Block diagram for overall subsystems and their connections.
 </p>
 
 <p align="center">
@@ -87,7 +96,7 @@ The toy itself comprises four total subsystems:
 </p>
 
 <p align="center">  
-  Figure 7. State machine that defines the general program behavior.
+  Figure 8. State machine that defines the general program behavior.
 </p>
 
 <p align="center">
@@ -95,7 +104,7 @@ The toy itself comprises four total subsystems:
 </p>
 
 <p align="center">  
-  Figure 8. Main PCB design and final result, not including the connections made in final assembly.
+  Figure 9. Main PCB design and final result, not including the connections made in final assembly.
 </p>
 
 <p align="center">
@@ -103,7 +112,7 @@ The toy itself comprises four total subsystems:
 </p>
 
 <p align="center">  
-  Figure 9. Laser PCB design and final result, not including the connections made in final assembly.
+  Figure 10. Laser PCB design and final result, not including the connections made in final assembly.
 </p>
 
 **Subsystem Schematic Figures:**
@@ -113,5 +122,5 @@ The toy itself comprises four total subsystems:
 </p>
 
 <p align="center">  
-  Figure 10. Sensor subsystem circuit schematic.
+  Figure 11. Sensor subsystem circuit schematic.
 </p>
