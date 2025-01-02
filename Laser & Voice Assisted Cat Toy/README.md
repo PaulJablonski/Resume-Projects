@@ -57,8 +57,8 @@ The toy itself comprises four total subsystems:
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6f1134af-090b-48a7-b7ce-13613925a507" alt="CT3" width="25%"> 
-  <img src="https://github.com/user-attachments/assets/58f876e7-c5cb-476b-813b-13e48eddd2c6" alt="CT3" width="45%"> 
+  <img src="https://github.com/user-attachments/assets/6f1134af-090b-48a7-b7ce-13613925a507" alt="CT3" width="30%"> 
+  <img src="https://github.com/user-attachments/assets/58f876e7-c5cb-476b-813b-13e48eddd2c6" alt="CT3" width="40%"> 
 </p>
 
 <p align="center">  
@@ -75,8 +75,8 @@ The toy itself comprises four total subsystems:
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a3540cb5-7c37-4136-b992-b1699e2830ab" alt="CT4" width="30%">
-  <img src="https://github.com/user-attachments/assets/2db4f1df-31dc-4f8a-afbc-6ea216112230" alt="CT4" width="30%"> 
+  <img src="https://github.com/user-attachments/assets/a3540cb5-7c37-4136-b992-b1699e2830ab" alt="CT4" width="35%">
+  <img src="https://github.com/user-attachments/assets/2db4f1df-31dc-4f8a-afbc-6ea216112230" alt="CT4" width="35%"> 
 </p>
 
 <p align="center">  
