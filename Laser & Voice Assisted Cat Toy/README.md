@@ -8,13 +8,13 @@ Physically speaking, the non-rolling shape of a mouse also allows for more rigid
  
 The toy itself comprises four total subsystems:
 
-* Sensor subsystem, including 
-
+* Sensor subsystem, including a VL53L1X laser sensor, an SW-420 vibration sensor, and a KY-038 sound sensor.
+* Microcontroller subsystem, comprised of the ATmega328p, taking inputs from the sensor subsystem, and outputting to the motors and outputs subsystem.
+* Motors and outputs subsystem, consisting of two Nema 17 short body motors, two SG90 servo motors, two A4988 stepper drivers, a PAM8302 sound amplifier, and one JSM 2.5mm speaker.
+* Power subsystem, which has a 11.1V lithium-ion battery, three AZ1117 voltage regulators, and a CYT1091 button.
 
 **Included Files:**
-1. 
 
-**Instructions for Running:**
 1. 
 
 **Example Usage:**
