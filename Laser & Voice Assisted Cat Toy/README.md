@@ -33,11 +33,19 @@ The toy itself comprises four total subsystems:
 **Toy Results:**
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/af4b2c92-231d-4630-a1bf-783ee73e3994" alt="CT1" width="50%"> 
+</p>
+
+<p align="center">  
+  Figure 1. Award ceremony acknowledging the work of this project, placing within the top 15% of projects.
+</p>
+
+<p align="center">
   <img src="https://github.com/user-attachments/assets/37ccaa5f-9542-4421-9ea8-11b387450108" alt="CT1" width="50%"> 
 </p>
 
 <p align="center">  
-  Figure 1. Initial concept sketch for the cat toy, including all intended functionalities.
+  Figure 2. Initial concept sketch for the cat toy, including all intended functionalities.
 </p>
 
 <p align="center">
@@ -45,15 +53,16 @@ The toy itself comprises four total subsystems:
 </p>
 
 <p align="center">  
-  Figure 2. Initial concept render of disassembled front and back view of the toy.
+  Figure 3. Initial concept render of disassembled front and back view of the toy.
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4a11b680-300e-405c-b774-f59a1829452c" alt="CT3" width="70%"> 
+  <img src="https://github.com/user-attachments/assets/6f1134af-090b-48a7-b7ce-13613925a507" alt="CT3" width="40%"> 
+  <img src="https://github.com/user-attachments/assets/58f876e7-c5cb-476b-813b-13e48eddd2c6" alt="CT3" width="40%"> 
 </p>
 
 <p align="center">  
-  Figure 3. Finalized CAD model of the toy alongside its interior.
+  Figure 4. Finalized CAD model of the toy alongside its interior.
 </p>
 
 <p align="center">
@@ -62,15 +71,16 @@ The toy itself comprises four total subsystems:
 </p>
 
 <p align="center">  
-  Figure 4. Assembly of the final product, including buttons, sensors on the sides, holes for wheel mounts, power button, etc.
+  Figure 5. Assembly of the final product, including buttons, sensors on the sides, holes for wheel mounts, power button, etc.
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/75f18ce1-b0f3-4db5-9f01-dac859750f61" alt="CT5" width="70%"> 
+  <img src="https://github.com/user-attachments/assets/a3540cb5-7c37-4136-b992-b1699e2830ab" alt="CT4" width="40%">
+  <img src="https://github.com/user-attachments/assets/2db4f1df-31dc-4f8a-afbc-6ea216112230" alt="CT4" width="40%"> 
 </p>
 
 <p align="center">  
-  Figure 5. Functionality of motor operations in final toy, red LED representing directions, and green representing motor steps. Laser detection here demonstrates directional change.
+  Figure 6. Functionality of motor operations in final toy, red LED representing directions, and green representing motor steps. Laser detection here demonstrates directional change.
 </p>
 
 <p align="center">
@@ -79,7 +89,7 @@ The toy itself comprises four total subsystems:
 </p>
 
 <p align="center">  
-  Figure 6. Vibration and treat dispensing functionality on display, treats are dispensed after three taps (catches).
+  Figure 7. Vibration and treat dispensing functionality on display, treats are dispensed after three taps (catches).
 </p>
 
 **Design Figures:**
@@ -89,7 +99,7 @@ The toy itself comprises four total subsystems:
 </p>
 
 <p align="center">  
-  Figure 7. Block diagram for overall subsystems and their connections.
+  Figure 8. Block diagram for overall subsystems and their connections.
 </p>
 
 <p align="center">
@@ -97,7 +107,7 @@ The toy itself comprises four total subsystems:
 </p>
 
 <p align="center">  
-  Figure 8. State machine that defines the general program behavior.
+  Figure 9. State machine that defines the general program behavior.
 </p>
 
 <p align="center">
@@ -105,7 +115,7 @@ The toy itself comprises four total subsystems:
 </p>
 
 <p align="center">  
-  Figure 9. Main PCB design and final result, not including the connections made in final assembly.
+  Figure 10. Main PCB design and final result, not including the connections made in final assembly.
 </p>
 
 <p align="center">
@@ -113,7 +123,7 @@ The toy itself comprises four total subsystems:
 </p>
 
 <p align="center">  
-  Figure 10. Laser PCB design and final result, not including the connections made in final assembly.
+  Figure 11. Laser PCB design and final result, not including the connections made in final assembly.
 </p>
 
 **Subsystem Schematic Figures:**
@@ -123,5 +133,5 @@ The toy itself comprises four total subsystems:
 </p>
 
 <p align="center">  
-  Figure 11. Sensor subsystem circuit schematic.
+  Figure 12. Sensor subsystem circuit schematic.
 </p>
