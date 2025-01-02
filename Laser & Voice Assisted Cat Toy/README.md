@@ -25,7 +25,7 @@ The toy itself comprises four total subsystems:
 **Relevant Figures:**
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/37ccaa5f-9542-4421-9ea8-11b387450108" alt="CT1" width="70%"> 
+  <img src="https://github.com/user-attachments/assets/37ccaa5f-9542-4421-9ea8-11b387450108" alt="CT1" width="50%"> 
 </p>
 
 <p align="center">  
@@ -33,7 +33,7 @@ The toy itself comprises four total subsystems:
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/68cfd6f7-47b3-405f-9e34-44828017e4a3" alt="CT2" width="70%"> 
+  <img src="https://github.com/user-attachments/assets/68cfd6f7-47b3-405f-9e34-44828017e4a3" alt="CT2" width="50%"> 
 </p>
 
 <p align="center">  
