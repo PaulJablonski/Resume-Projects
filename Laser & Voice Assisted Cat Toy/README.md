@@ -22,13 +22,28 @@ The toy itself comprises four total subsystems:
 5. MainPCB.kicad_sch - KiCAD schematic file that compliments and provides the layed-out prototype for the aforementioned main PCB.
 6. ToyFirmware.ino - Arduino code file that contains all states and operations of the toy's programmed behavior. This file serves as its primary state machine and is loaded onto the final version's ATmega328p controller.
 
-**Example Usage:**
+**Relevant Figures:**
 
 <p align="center">
-  <img src="" alt="AE1" width="70%"> 
+  <img src="https://github.com/user-attachments/assets/37ccaa5f-9542-4421-9ea8-11b387450108" alt="CT1" width="70%"> 
 </p>
 
 <p align="center">  
-  Figure 1. .
+  Figure 1. Initial concept sketch for the cat toy, including all intended functionalities.
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/68cfd6f7-47b3-405f-9e34-44828017e4a3" alt="CT2" width="70%"> 
+</p>
+
+<p align="center">  
+  Figure 2. Initial concept render of disassembled front and back view of the toy.
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4a11b680-300e-405c-b774-f59a1829452c" alt="CT3" width="70%"> 
+</p>
+
+<p align="center">  
+  Figure 3. Finalized CAD model of the toy alongside its interior.
+</p>
