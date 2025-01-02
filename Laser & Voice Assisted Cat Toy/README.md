@@ -105,3 +105,13 @@ The toy itself comprises four total subsystems:
 <p align="center">  
   Figure 9. Laser PCB design and final result, not including the connections made in final assembly.
 </p>
+
+**Subsystem Schematic Figures:**
+
+<p align="center">
+  <img src="" alt="CT10" width="40%"> 
+</p>
+
+<p align="center">  
+  Figure 10. Sensor subsystem circuit schematic.
+</p>
