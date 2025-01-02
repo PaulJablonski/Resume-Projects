@@ -137,7 +137,7 @@ The toy itself comprises four total subsystems:
 </p>
 
 <p align="center">  
-  Figure 12. Overall schematic diagram.
+  Figure 12. Overall circuit schematic diagram.
 </p>
 
 <p align="center">
