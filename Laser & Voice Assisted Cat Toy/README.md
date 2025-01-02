@@ -37,7 +37,7 @@ The toy itself comprises four total subsystems:
 </p>
 
 <p align="center">  
-  Figure 1. Award ceremony acknowledging the work of this project, placing within the top 15% of projects.
+  Figure 1. Award ceremony photo alongside Professor Fang, placing within the top 15% of projects.
 </p>
 
 <p align="center">
