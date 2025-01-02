@@ -21,7 +21,7 @@ The final implementation is divisible into the following general functionalities
 
 Note: All .java files listed below are also found within the "FinalAndroid" folder, and were simply copied here for ease of access. They contain the most important functionalities and implementations from this project.
 
-1. AndroidSecurityOverview.pdf - Includes a comprehensive final report regarding this project and all technical details necessary to understand its purpose and functionality.
+1. AndroidSecurityOverview.pdf - An 18-page comprehensive final report regarding this project and all technical details necessary to understand its purpose and functionality.
 2. FinalAndroid - Compiled and cleaned Android Studio folder. Contains all necessary files to run this security system program on a local Android device. Simply open this folder in Android Studio, build the project, and click the "run" button to test the software.
 3. ImageData.java - Defines the image storage class for playback and image file management.
 4. ImageProcessingUtils.java - Contains all image-processing related functions as part of the main digital signal processing pipeline. All of these functions are called in the next file.
