@@ -22,7 +22,7 @@ The toy itself comprises four total subsystems:
 5. MainPCB.kicad_sch - KiCAD schematic file that compliments and provides the layed-out prototype for the aforementioned main PCB.
 6. ToyFirmware.ino - Arduino code file that contains all states and operations of the toy's programmed behavior. This file serves as its primary state machine and is loaded onto the final version's ATmega328p controller.
 
-**Demonstration Video:**
+**Demonstration Video (Click on image):**
 
 <div align="center" style="position: relative; display: inline-block;">
   <a href="https://www.youtube.com/watch?v=QRSZpgy2Lqo" title="Click to Watch Laser And Voice Assisted Cat Toy">
