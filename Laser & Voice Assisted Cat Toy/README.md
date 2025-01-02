@@ -91,7 +91,7 @@ The toy itself comprises four total subsystems:
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/07422a70-fb51-4d11-81e9-cb1feaf26ea8" alt="CT8" width="70%"> 
+  <img src="https://github.com/user-attachments/assets/07422a70-fb51-4d11-81e9-cb1feaf26ea8" alt="CT8" width="50%"> 
 </p>
 
 <p align="center">  
