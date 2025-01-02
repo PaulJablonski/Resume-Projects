@@ -30,7 +30,7 @@ The toy itself comprises four total subsystems:
   </a>
 </div>
 
-**Relevant Figures:**
+**Toy Results:**
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/37ccaa5f-9542-4421-9ea8-11b387450108" alt="CT1" width="50%"> 
@@ -57,9 +57,19 @@ The toy itself comprises four total subsystems:
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6f4876cd-b505-4303-bb59-6b5966c7aeed" alt="CT3" width="70%"> 
+  <img src="https://github.com/user-attachments/assets/6f4876cd-b505-4303-bb59-6b5966c7aeed" alt="CT4" width="70%"> 
 </p>
 
 <p align="center">  
   Figure 4. Assembly of the final product, including buttons, sensors on the sides, holes for wheel mounts, power button, etc.
 </p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/75f18ce1-b0f3-4db5-9f01-dac859750f61" alt="CT5" width="70%"> 
+</p>
+
+<p align="center">  
+  Figure 5. Functionality of motor operations in final toy, red LED representing directions, and green representing motor steps. Laser detection here demonstrates directional change.
+</p>
+
+**Design Figures:**
