@@ -83,7 +83,7 @@ The toy itself comprises four total subsystems:
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/419f430b-160d-4118-904f-03616720d243" alt="CT7" width="70%"> 
+  <img src="https://github.com/user-attachments/assets/419f430b-160d-4118-904f-03616720d243" alt="CT7" width="50%"> 
 </p>
 
 <p align="center">  
@@ -91,9 +91,17 @@ The toy itself comprises four total subsystems:
 </p>
 
 <p align="center">
-  <img src="" alt="CT8" width="70%"> 
+  <img src="https://github.com/user-attachments/assets/07422a70-fb51-4d11-81e9-cb1feaf26ea8" alt="CT8" width="70%"> 
 </p>
 
 <p align="center">  
-  Figure 8. .
+  Figure 8. Main PCB design and final result, not including the connections made in final assembly.
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fe8f060c-1879-48b8-9f4a-875df9afeecf" alt="CT9" width="40%"> 
+</p>
+
+<p align="center">  
+  Figure 9. Laser PCB design and final result, not including the connections made in final assembly.
 </p>
