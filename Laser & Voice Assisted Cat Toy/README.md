@@ -30,15 +30,18 @@ The toy itself comprises four total subsystems:
   </a>
 </div>
 
-**Toy Results:**
+**Honorable Mention Award:**
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/af4b2c92-231d-4630-a1bf-783ee73e3994" alt="CT1" width="50%"> 
+  <img src="https://github.com/user-attachments/assets/af4b2c92-231d-4630-a1bf-783ee73e3994" alt="CT1" width="45%"> 
+  <img src="https://github.com/user-attachments/assets/769072af-4e45-4e2b-8496-a4dae890e37e" alt="CT1" width="45%">
 </p>
 
 <p align="center">  
-  Figure 1. Award for this project given by UIUC Professor Fang, placing within the top 15% of projects among 50 groups.
+  Figure 1. Award for this project given by UIUC Professor Fang, placing within the top 7 projects among nearly 50 groups.
 </p>
+
+**Design Figures:**
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/37ccaa5f-9542-4421-9ea8-11b387450108" alt="CT1" width="50%"> 
@@ -75,12 +78,29 @@ The toy itself comprises four total subsystems:
 </p>
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/09987e0e-193b-432a-98ea-284237089df5" alt="CT8" width="45%">
+  <img src="https://github.com/user-attachments/assets/07422a70-fb51-4d11-81e9-cb1feaf26ea8" alt="CT8" width="37%"> 
+</p>
+
+<p align="center">  
+  Figure 6. Main PCB design, not including the connections made in final assembly.
+</p>
+
+<p align="center"> 
+  <img src="https://github.com/user-attachments/assets/66944e20-aa1c-48c7-8518-a05637cbd822" alt="CT9" width="33%">
+</p>
+
+<p align="center">  
+  Figure 7. Laser PCB design, not including the connections made in final assembly.
+</p>
+
+<p align="center">
   <img src="https://github.com/user-attachments/assets/a3540cb5-7c37-4136-b992-b1699e2830ab" alt="CT4" width="35%">
   <img src="https://github.com/user-attachments/assets/2db4f1df-31dc-4f8a-afbc-6ea216112230" alt="CT4" width="35%"> 
 </p>
 
 <p align="center">  
-  Figure 6. Functionality of motor operations in final toy, red LED representing directions, and green representing motor steps. Laser detection here demonstrates directional change.
+  Figure 8. Functionality of motor operations in final toy, red LED representing directions, and green representing motor steps. Laser detection here demonstrates directional change.
 </p>
 
 <p align="center">
@@ -89,17 +109,17 @@ The toy itself comprises four total subsystems:
 </p>
 
 <p align="center">  
-  Figure 7. Vibration and treat dispensing functionality on display, treats are dispensed after three taps (catches).
+  Figure 9. Vibration and treat dispensing functionality on display, treats are dispensed after three taps (catches).
 </p>
 
-**Design Figures:**
+**Block Diagrams:**
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/936fde06-59ed-41c1-968c-5e6de839c972" alt="CT6" width="70%"> 
 </p>
 
 <p align="center">  
-  Figure 8. Block diagram for overall subsystems and their connections.
+  Figure 10. Block diagram for overall subsystems and their connections.
 </p>
 
 <p align="center">
@@ -107,23 +127,7 @@ The toy itself comprises four total subsystems:
 </p>
 
 <p align="center">  
-  Figure 9. State machine that defines the general program behavior.
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/07422a70-fb51-4d11-81e9-cb1feaf26ea8" alt="CT8" width="50%"> 
-</p>
-
-<p align="center">  
-  Figure 10. Main PCB design and final result, not including the connections made in final assembly.
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/fe8f060c-1879-48b8-9f4a-875df9afeecf" alt="CT9" width="40%"> 
-</p>
-
-<p align="center">  
-  Figure 11. Laser PCB design and final result, not including the connections made in final assembly.
+  Figure 11. State machine that defines the general program behavior.
 </p>
 
 **Subsystem Schematic Figures:**
