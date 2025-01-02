@@ -37,7 +37,7 @@ The toy itself comprises four total subsystems:
 </p>
 
 <p align="center">  
-  Figure 1. Award ceremony photo alongside Professor Fang, placing within the top 15% of projects.
+  Figure 1. Award for this project given by UIUC Professor Fang, placing within the top 15% of projects among 50 groups.
 </p>
 
 <p align="center">
