@@ -133,9 +133,41 @@ The toy itself comprises four total subsystems:
 **Subsystem Schematic Figures:**
 
 <p align="center">
-  <img src="" alt="CT10" width="40%"> 
+  <img src="https://github.com/user-attachments/assets/569b1652-8966-4581-9221-94dc27b16f19" alt="CT10" width="75%"> 
 </p>
 
 <p align="center">  
-  Figure 12. Sensor subsystem circuit schematic.
+  Figure 12. Overall schematic diagram.
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f7fb4fa2-e29c-43b0-99fe-7cb1bc9729a7" alt="CT10" width="50%"> 
+</p>
+
+<p align="center">  
+  Figure 13. Sensor subsystem schematic diagram.
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9ff35cb2-8f40-4958-a950-366ea6578570" alt="CT10" width="35%"> 
+</p>
+
+<p align="center">  
+  Figure 14. Microcontroller subsystem schematic diagram.
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4c102987-3db8-44ae-a59e-0b00936cf4e9" alt="CT10" width="45%"> 
+</p>
+
+<p align="center">  
+  Figure 15. Motors & outputs subsystem schematic diagram.
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/50f7c4c1-163e-48bc-a73b-26fbd74a3e55" alt="CT10" width="35%"> 
+</p>
+
+<p align="center">  
+  Figure 16. Power subsystem schematic diagram.
 </p>
