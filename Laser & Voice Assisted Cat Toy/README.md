@@ -57,7 +57,8 @@ The toy itself comprises four total subsystems:
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6f4876cd-b505-4303-bb59-6b5966c7aeed" alt="CT4" width="70%"> 
+  <img src="https://github.com/user-attachments/assets/81dd1839-44cf-4401-ae69-589fd7261698" alt="CT4" width="40%">
+  <img src="https://github.com/user-attachments/assets/2a93493b-a366-467a-aee5-69d262477ccf" alt="CT4" width="40%"> 
 </p>
 
 <p align="center">  
