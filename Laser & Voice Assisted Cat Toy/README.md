@@ -53,5 +53,5 @@ The toy itself comprises four total subsystems:
 </p>
 
 <p align="center">  
-  Figure 4. Assembly of the final product, including buttons, sensors on the sides, holes for wheel mounts, a button, etc.
+  Figure 4. Assembly of the final product, including buttons, sensors on the sides, holes for wheel mounts, power button, etc.
 </p>
