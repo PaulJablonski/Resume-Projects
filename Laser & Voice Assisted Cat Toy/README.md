@@ -24,9 +24,11 @@ The toy itself comprises four total subsystems:
 
 **Video Overview:**
 
-<align="center">
-  [![Video](http://img.youtube.com/vi/QRSZpgy2Lqo/0.jpg)](https://www.youtube.com/watch?v=QRSZpgy2Lqo "Laser And Voice Assisted Cat Toy")
-<>
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=QRSZpgy2Lqo" title="Laser And Voice Assisted Cat Toy">
+    <img src="http://img.youtube.com/vi/QRSZpgy2Lqo/0.jpg" alt="Video">
+  </a>
+</div>
 
 **Relevant Figures:**
 
