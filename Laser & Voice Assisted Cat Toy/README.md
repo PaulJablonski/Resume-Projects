@@ -15,7 +15,12 @@ The toy itself comprises four total subsystems:
 
 **Included Files:**
 
-1. 
+1. CAD - Includes all CAD files for the cat toy, including both versions of its main body, top and bottom panels, and its separate cover for treat dispensing that attaches to the toy's treat servo motor.
+2. CatToyOverview.pdf - A comprehensive 26-page report that displays the results of this project, alongside more in-depth technical descriptions for each subsystem.
+3. LaserPCB.kicad_pcb - KiCAD PCB file for the front-mounted PCB that contains the laser sensor.
+4. MainPCB.kicad_pcb - KiCAD PCB file for the main system PCB that contains all other sensors and outputs, alongside the microcontroller and additional connections.
+5. MainPCB.kicad_sch - KiCAD schematic file that compliments and provides the layed-out prototype for the aforementioned main PCB.
+6. ToyFirmware.ino - Arduino code file that contains all states and operations of the toy's programmed behavior. This file serves as its primary state machine and is loaded onto the final version's ATmega328p controller.
 
 **Example Usage:**
 
@@ -24,6 +29,6 @@ The toy itself comprises four total subsystems:
 </p>
 
 <p align="center">  
-  Figure 1. Main program menu, including the START, STOP, camera FLIP, and image PLAYBACK buttons. Calibration image is taken here.
+  Figure 1. .
 </p>
 
