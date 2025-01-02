@@ -47,3 +47,11 @@ The toy itself comprises four total subsystems:
 <p align="center">  
   Figure 3. Finalized CAD model of the toy alongside its interior.
 </p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6f4876cd-b505-4303-bb59-6b5966c7aeed" alt="CT3" width="70%"> 
+</p>
+
+<p align="center">  
+  Figure 4. Assembly of the final product, including buttons, sensors on the sides, holes for wheel mounts, a button, etc.
+</p>
