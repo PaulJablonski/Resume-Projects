@@ -28,7 +28,7 @@ The toy itself comprises four total subsystems:
   <a href="https://www.youtube.com/watch?v=QRSZpgy2Lqo" title="Laser And Voice Assisted Cat Toy">
     <img src="http://img.youtube.com/vi/QRSZpgy2Lqo/0.jpg" alt="Video" style="width: 100%; max-width: 600px;">
     <img src="https://freepngimg.com/save/25662-play-button-transparent/660x440" 
-         alt="Play Button" style="position: absolute; top: 50%; left: 50%; transform: translate(-100px, -100px); width: 80px; height: 80px;">
+         alt="Play Button" style="position: absolute; top: 50%; left: 50%; transform: translate(-100px, -1000px); width: 80px; height: 80px;">
   </a>
 </div>
 
