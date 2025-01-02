@@ -73,3 +73,27 @@ The toy itself comprises four total subsystems:
 </p>
 
 **Design Figures:**
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/936fde06-59ed-41c1-968c-5e6de839c972" alt="CT6" width="70%"> 
+</p>
+
+<p align="center">  
+  Figure 6. Block diagram for overall subsystems and their connections.
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/419f430b-160d-4118-904f-03616720d243" alt="CT7" width="70%"> 
+</p>
+
+<p align="center">  
+  Figure 7. State machine that defines the general program behavior.
+</p>
+
+<p align="center">
+  <img src="" alt="CT8" width="70%"> 
+</p>
+
+<p align="center">  
+  Figure 8. .
+</p>
