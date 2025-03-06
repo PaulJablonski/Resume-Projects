@@ -3,7 +3,7 @@ Projects that are a part of my independent studies accompanied by my resume.
 
 **Currently Includes:**
 1. ***Android Embedded Security System*** - Manual object-detecting Android application meant for security applications, detects, isolates, and labels people in camera feed utilizing manual DB-scanning, k-means color processing, and image calibration techniques.
-2. ***FPGA Audio Nexus*** - WIP project that aims to transform any audio output device into a noise-cancelling and pass-through capable one utilizing an FPGA intermediary device.
+2. ***FPGA Granular Synthesizer*** - WIP project that aims to transform any vocal input into an FPGA audio codec into a granularly synthesized output, for playback adjustment, musical instrumentation, etc.
 3. ***FPGA Soccer Heads*** - A recreation of a classic flash game that incorporated SystemVerilog and C onto a Microblaze FPGA board that was connected to peripheral devices such as a monitor and keyboard.
 4. ***Handwritten Text Recognition*** - Classifies single hand-illustrated character from user's input using SVM and convolution, where both the back-end and front-end were created from scratch using Python3 (Full Stack).
 5. ***Illini Harmonics*** - A GCP-hosted music-based social web app made with SQL, React, and Python for rating your listening history and sharing it with friends.
