@@ -28,8 +28,22 @@ Key Features:
 6. GranularSynthVST.vst3 - Plugin file that needs to be added to Windows VST folder in order to utilize in DAW.
 
 **Instructions for Running:**
-1. Download the "FinalAndroid" folder for testing on a local Android device, or download the "PythonPrototype.py" file if testing on a desktop device. Note that the former performs better and has more manual optimizations than the prototype.
-2. If testing Android version, open the folder in the latest version of Android Studio and allow the Gradle files to build. Then connect your device via USB, and press the run button to test.
-3. If testing the prototype, simply load the prototype file in the IDE of your choice and run the file, make sure all libraries are installed.
+1. Download the GranularSynthVST.vst3 plugin file from this repository.
+2. Copy the .vst3 file to your system’s VST3 plugin directory:
+   - On Windows: C:\Program Files\Common Files\VST3
+   - On macOS: /Library/Audio/Plug-Ins/VST3
+3. Open your DAW (e.g. Ableton Live, FL Studio) and ensure it scans the plugin folder.
+4. Insert the plugin on an audio track with a sound source (e.g. sample or synth).
+5. Adjust grain parameters using the plugin GUI, or automate them using your DAW’s automation lanes.
+
+**Demonstration Video (Click on image):**
+
+<div align="center" style="position: relative; display: inline-block;">
+  <a href="https://www.youtube.com/watch?v=B7rWbNovvGQ" title="Click to Watch Granular Synth Demo">
+    <img src="https://img.youtube.com/vi/B7rWbNovvGQ/0.jpg" alt="Video" style="width: 60%; max-width: 400px;">
+  </a>
+</div>
+
+**DSP Block Diagram:**
 
 **Example Usage:**
