@@ -21,11 +21,11 @@ Key Features:
 **Included Files:**
 
 1. GranularSynthOverview.pdf - A 12-page comprehensive final report regarding this project / research and all technical details necessary to understand its purpose and functionality.
-2. PluginProcessor.cpp - Implements the audio processing logic including buffer handling, grain scheduling, interpolation, and dry/wet mixing. This is the core of the DSP pipeline.
-3. PluginProcessor.h - Declares the main audio processor class, grain structure, parameters, and utility functions used throughout the plugin.
-4. PluginEditor.cpp - Defines and arranges the graphical interface components including rotary sliders and tooltips, and connects them to the backend parameter state.
-5. PluginEditor.h - Declares the plugin editor class and its GUI components, including layout and control bindings for interaction within the DAW environment.
-6. GranularSynthVST.vst3 - Plugin file that needs to be added to Windows VST folder in order to utilize in DAW.
+2. GranularSynthVST.vst3 - Plugin file that needs to be added to Windows VST folder in order to utilize in DAW.
+3. PluginProcessor.cpp - Implements the audio processing logic including buffer handling, grain scheduling, interpolation, and dry/wet mixing. This is the core of the DSP pipeline.
+4. PluginProcessor.h - Declares the main audio processor class, grain structure, parameters, and utility functions used throughout the plugin.
+5. PluginEditor.cpp - Defines and arranges the graphical interface components including rotary sliders and tooltips, and connects them to the backend parameter state.
+6. PluginEditor.h - Declares the plugin editor class and its GUI components, including layout and control bindings for interaction within the DAW environment.
 
 **Instructions for Running:**
 1. Download the GranularSynthVST.vst3 plugin file from this repository.
