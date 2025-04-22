@@ -46,4 +46,28 @@ Key Features:
 
 **DSP Block Diagram:**
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/906ee21a-c961-43c7-9b33-54000e604821" alt="CT1"> 
+</p>
+
+<p align="center">  
+  Figure 1. DSP pipeline diagram for this project, describing the grain processing and its components.
+</p>
+
 **Example Usage:**
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/906ee21a-c961-43c7-9b33-54000e604821" alt="CT1"> 
+</p>
+
+<p align="center">  
+  Figure 2. DSP pipeline diagram for this project, describing the grain processing and its components.
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/906ee21a-c961-43c7-9b33-54000e604821" alt="CT1"> 
+</p>
+
+<p align="center">  
+  Figure 3. DSP pipeline diagram for this project, describing the grain processing and its components.
+</p>
