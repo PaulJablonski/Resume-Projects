@@ -65,7 +65,7 @@ Key Features:
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/27d98e35-d7ed-41b1-8994-c30083ef2c94" alt="CT3"> 
+  <img src="https://github.com/user-attachments/assets/e7af8138-4c35-4ba0-b46a-53c6281de9b9" alt="CT3"> 
 </p>
 
 <p align="center">  
@@ -73,7 +73,7 @@ Key Features:
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7eee309c-c8c8-45d3-9568-c3525414a16f" alt="CT3"> 
+  <img src="https://github.com/user-attachments/assets/7eee309c-c8c8-45d3-9568-c3525414a16f" alt="CT4"> 
 </p>
 
 <p align="center">  
