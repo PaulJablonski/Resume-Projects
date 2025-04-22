@@ -57,17 +57,25 @@ Key Features:
 **Example Usage:**
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/906ee21a-c961-43c7-9b33-54000e604821" alt="CT1"> 
+  <img src="https://github.com/user-attachments/assets/30b5a977-9ddf-4f03-a9d0-339cd3763d08" alt="CT2"> 
 </p>
 
 <p align="center">  
-  Figure 2. DSP pipeline diagram for this project, describing the grain processing and its components.
+  Figure 2. Graphic user interface for the plugin, featuring all controllable parameters.
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/906ee21a-c961-43c7-9b33-54000e604821" alt="CT1"> 
+  <img src="https://github.com/user-attachments/assets/27d98e35-d7ed-41b1-8994-c30083ef2c94" alt="CT3"> 
 </p>
 
 <p align="center">  
-  Figure 3. DSP pipeline diagram for this project, describing the grain processing and its components.
+  Figure 3. Ableton Live DAW compatibility with parameter control and automation.
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7eee309c-c8c8-45d3-9568-c3525414a16f" alt="CT3"> 
+</p>
+
+<p align="center">  
+  Figure 4. Three comparative and visual tracks, best accompanied via demo video.
 </p>
